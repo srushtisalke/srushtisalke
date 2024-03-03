@@ -2,10 +2,9 @@
 
 ## Hi 👋, Srushti Salke
 #### Web Designer and Development
-
 A highly motivated and passionate front-end developer eager to embark on a journey in web development. With a strong foundation in JavaScript, Reactjs, Nodejs and CSS/HTML, I'm excited to leverage my skills to create intuitive and dynamic web experiences.
 
-## Skills and Experienc
+## Skills and Experience
 * ⚛  REACT
 * 👨‍💻 JavaScript
 * 💻 CSS/HTML
