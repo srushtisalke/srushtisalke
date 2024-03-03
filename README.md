@@ -1,4 +1,4 @@
-![Web Design and Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Design and Development](https://github.com/srushtisalke/srushtisalke/blob/main/shutterstock_1449924503.png)
 
 ## Hi there 👋, Srushti Salke
 #### Web Design and Development
