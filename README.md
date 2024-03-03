@@ -1,4 +1,4 @@
-![Web Design and Development](https://github.com/srushtisalke/srushtisalke/blob/main/shutterstock_1449924503.png)
+![Web Design and Development](https://github.com/srushtisalke/srushtisalke/blob/main/shutterstock_new.png)
 
 ## Hi there 👋, Srushti Salke
 #### Web Design and Development
