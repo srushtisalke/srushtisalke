@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushtisalke&label=Profile%20views&color=0e75b6&style=flat" alt="srushtisalke" /> </p>
 
-- 🔭 I’m currently working on **end course project based on JavaScript, Reactjs, Nodejs and CSS/HTML.**
+- 🔭 I’m currently working on **my final web development project based on JavaScript, Reactjs, Nodejs and CSS/HTML.**
 
 - 💬 Ask me about **JavaScript, Reactjs, MySQL, HTML/CSS.**
 
