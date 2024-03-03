@@ -1,11 +1,15 @@
 ![Web Design and Development](https://github.com/srushtisalke/srushtisalke/blob/main/shutterstock_new.png)
 
-## Hi there 👋, Srushti Salke
-#### Web Design and Development
+## Hi 👋, Srushti Salke
+#### Web Designer and Development
 
 A highly motivated and passionate front-end developer eager to embark on a journey in web development. With a strong foundation in JavaScript, Reactjs, Nodejs and CSS/HTML, I'm excited to leverage my skills to create intuitive and dynamic web experiences.
 
-Skills: REACT / JS / HTML / CSS /MySQL / Nodejs
+## Skills and Experienc
+* ⚛  REACT
+* 👨‍💻 JavaScript
+* 💻 CSS/HTML
+* 🗄 MySQL
 
 - 🔭 I’m currently working on my final web development project based on JavaScript, Reactjs, Nodejs and CSS/HTML. 
 - 🌱 I’m currently learning TypeScript and Angularjs 
