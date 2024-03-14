@@ -2,12 +2,12 @@
 
 ## Hi 👋, Srushti Salke
 #### Web Designer and Development
-A highly motivated and passionate front-end developer eager to embark on a journey in web development. With a strong foundation in JavaScript, Reactjs, Nodejs and CSS/HTML, I'm excited to leverage my skills to create intuitive and dynamic web experiences.
+A highly motivated and passionate front-end developer eager to embark on a journey in web development. With a strong foundation in JavaScript, Reactjs, Nodejs and CSS/HTML,Expressjs,MoongoDB,mysql. I'm excited to leverage my skills to create intuitive and dynamic web experiences.
 
 
 - 🔭 I’m currently working on my final web development project based on JavaScript, Reactjs, Nodejs and CSS/HTML. 
 - 🌱 I’m currently learning TypeScript and Angularjs 
-- 💬 Ask me about JavaScript, Reactjs, MySQL, HTML/CSS 
+- 💬 Ask me about JavaScript, Reactjs, MySQL, HTML/CSS ,Express.js,mysql.
 - 📫 How to reach me: srushtisalke380@gmail.com 
 
 
